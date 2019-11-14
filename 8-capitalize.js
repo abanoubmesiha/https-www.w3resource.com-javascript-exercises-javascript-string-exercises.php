@@ -1,7 +1,5 @@
 function capitalize(str){
-    let Char = str.charAt(0).toUpperCase();
-    let restS = str.substring(1,str.length);
-    return Char+restS;
+    return str.charAt(0).toUpperCase() + str.slice(1);
     }
 
 
