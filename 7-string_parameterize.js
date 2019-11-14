@@ -14,4 +14,4 @@ function string_parameterize(str){
 }
 
 string_parameterize("Robin Singh from USA.");
-//"robin-singh-from-usa"
+//robin-singh-from-usa
