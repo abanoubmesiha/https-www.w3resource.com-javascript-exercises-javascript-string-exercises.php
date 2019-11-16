@@ -1,3 +1,4 @@
+//9. Write a JavaScript function to capitalize the first letter of each word in a string.
 function capitalize_Words(str){
     let splitted = str.split(' ');
     var Arr = [];
